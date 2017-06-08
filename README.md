@@ -1,8 +1,19 @@
 # rabosky_and_hurlbert_2015
 
-My code to do the same as [1],
+My code to do the same as [1].
 
-![My result](rabosky_and_hurlbert_2015.png)
+My result (vertical line denotes the average taxon duration):
+
+![My result](rabosky_and_hurlbert_2015_to_10.png)
+
+Running half as long:
+
+![My result](rabosky_and_hurlbert_2015_to_5.png)
+
+Running twice as long:
+
+![My result](rabosky_and_hurlbert_2015_to_20.png)
+
 
 # References
   

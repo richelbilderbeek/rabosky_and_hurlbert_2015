@@ -4,7 +4,7 @@ lambda <- 10.0 * mu # As Liow et al
 k <- 20
 
 average_taxon_duration <- 1.0 / mu
-t_end <- average_taxon_duration * 10.0
+t_end <- average_taxon_duration * 5.0
 
 n_crown_ages <- 100
 n_trees_per_crown_age <- 20
